@@ -50,6 +50,14 @@ this is used for
 multiline comments
 */
 
+var fName = "Afra"
+let fName2 = "Muhlise"  /*yeni isim verilebiliyor*/
+fName2 = "Kemal"    /*yeni isim verilebiliyor*/
+const fName3 = "Ebuzer"
+/* fName3 = "Ahmet" */  /*yeni isim VerileMEZ*/
+
+
+
 // ---- DATA  TYPES ---- // 
 
 /* 
@@ -87,3 +95,4 @@ console.log(typeof 3.14)
 console.log(typeof true)
 
 console.log(typeof false)
+
